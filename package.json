@@ -1,5 +1,5 @@
 {
-  "name": "react-useloading",
+  "name": "@foseberg/react-useloading",
   "version": "1.0.0",
   "description": "Reusable hook to create loading states in react",
   "main": "./dist/index.js",
