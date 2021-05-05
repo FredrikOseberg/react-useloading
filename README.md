@@ -3,7 +3,7 @@
 UseLoading allows you to easily add loading states to your elements by following a simple pattern of adding a data-loading property to the elements you want to trigger loading states on:
 
 ```
-import useLoading from 'useLoading'
+import useLoading from '@foseberg/react-useloading'
 
 
 const Card = ({ loading }: ICardProps) => {
